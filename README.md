@@ -1,1 +1,1 @@
-# Chrun-rate-prediction-for-car-insurances
+# Churn-rate-prediction-for-car-insurances
